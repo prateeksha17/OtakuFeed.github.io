@@ -1,0 +1,41 @@
+.container {
+
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: none !important;
+}
+.text_logo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  height: 50px;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  float: right;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+}
+
+.purple {
+  background-color: #512da8;
+}
+
+.userName {
+  margin-left: 10px;
+}
+
+.logout {
+  margin-top: 3%;
+  z-index: 1;
+
+}

@@ -1,0 +1,33 @@
+.form-body{
+    margin-top: 17%;
+    width: 40%; /* Set width to one-third of the page */
+    padding: 20px; /* Add padding for spacing */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    float: right; 
+    background-color: rgba(256, 256, 256, 0.5) !important;
+
+    
+}
+.paper-signIn{
+    padding: 10px auto !important;
+    margin: 10px auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(256, 256, 256, 0.5) !important;
+}
+
+.form-heading{
+   text-align: center; 
+}
+.filebase{
+    margin-top: 10px !important;
+}
+.buttons{
+    margin-top: 3%;
+}
+Button.form-button{
+    margin-left: 3%;
+}
+.form-textfield{
+    margin-top: 10px !important;
+}

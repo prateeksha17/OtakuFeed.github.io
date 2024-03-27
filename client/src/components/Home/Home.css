@@ -1,0 +1,6 @@
+.form-container {
+    position: fixed; /* Fixed position */
+    top: 10%; /* Distance from the top of the viewport */
+    right: 20px; /* Distance from the right of the viewport */
+    padding: 20px; /* Optional padding for spacing */
+  }
